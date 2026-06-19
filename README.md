@@ -43,7 +43,7 @@
 |---------|-----------|------|
 | [**Buscador-GitHub**](https://github.com/MurilloCampanha0/Buscador-GitHub) | Busca perfis do GitHub e mostra os repositórios mais estrelados. React + consumo de API. | [ver online](https://buscador-git-hub-alpha.vercel.app/) |
 | [**Finance-Dashboard**](https://github.com/MurilloCampanha0/Finance-Dashboard) | Painel de finanças pessoais para controle de entradas e saídas. | [ver online](https://finance-dashboard-drab-seven.vercel.app) |
-| [**Calculadora-em-React**](https://github.com/MurilloCampanha0/Calculadora-em-React) | Calculadora funcional construída com React. | _adicione o link_ |
+| [**Calculadora-em-React**](https://github.com/MurilloCampanha0/Calculadora-em-React) | Calculadora funcional construída com React. | [ver online](https://finance-dashboard-zo22.vercel.app) |
 | [**Portifolio**](https://github.com/MurilloCampanha0/Portifolio) | Meu portfólio pessoal. | _adicione o link_ |
 
 ---
